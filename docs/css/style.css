@@ -57,6 +57,7 @@ ul, li {
   border-radius: 21px;
   background: rgb(237, 237, 237);
   position: relative;
+  color: #333;
 }
 .btn a::after {
   font-family: fontello;
