@@ -62,7 +62,7 @@ ul, li {
 .btn a::after {
   font-family: fontello;
   display: inline-block;
-  content: "\e85a";
+  content: "\03e";
   position: absolute;
   top: 0;
   right: 20px;
@@ -560,7 +560,7 @@ ul, li {
     line-height: 1.7;
   }
   #header {
-    height: 200px;
+    height: 0px;
   }
   #header .logo-title {
     font-size: 56px;
