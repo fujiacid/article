@@ -79,7 +79,7 @@ ul, li {
 }
 
 .inner {
-  max-width: 400px;
+  max-width: 1300px;
   width: 100%;
   margin: 0 auto;
   padding: 0 10px;
@@ -103,7 +103,7 @@ ul, li {
   -webkit-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  height: 1000px;
+  height: 200px;
   background-color: #2b2b2b;
 }
 
